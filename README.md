@@ -19,7 +19,7 @@ A responsive weather forecasting web application that provides current weather d
 - **HTML5** / **CSS3**
 - **JavaScript**
 - **OpenWeatherMap API** (or your preferred API)
-- Optional: Frameworks like **Bootstrap** or **TailwindCSS** for styling
+- Frameworks like **Bootstrap** or **TailwindCSS** for styling
 
 ---
 
